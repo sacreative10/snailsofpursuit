@@ -1,0 +1,3 @@
+[submodule "external/MDCPP"]
+	path = external/MDCPP
+	url = git@github.com:sacreative10/MDCPP.git
